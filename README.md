@@ -23,7 +23,7 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Aqui você encont
 </div>
 
 ### Projetos em Destaque
-- [Nome do Projeto 1](link-do-repo) - Descrição breve (ex.: Um app em JS para...).
+- [Nome do Projeto 1](link-do-repo) - Descrição breve .
 - [Nome do Projeto 2](link-do-repo) - Descrição breve.
 
 ###  Me segue nas redes!
