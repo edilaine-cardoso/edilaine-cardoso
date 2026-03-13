@@ -1,4 +1,4 @@
-#  Me chamo Edilaine Cardoso, Bem-vindo(a) ao meu perfil! 😁
+#  Me chamo Edilaine Cardoso, Bem-vindo(a) ao meu perfil! 
 
 Sou uma desenvolvedora apaixonada por tecnologia e inovação. Aqui você encontra meus projetos e contribuições no GitHub.
 
@@ -34,4 +34,4 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Aqui você encont
   <a href="https://www.linkedin.com/in/edilaine-cardoso-52b7571b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-⭐ **Dê uma estrela nos meus repositórios se gostar!**
+
