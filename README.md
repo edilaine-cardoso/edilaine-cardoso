@@ -22,9 +22,7 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Aqui você encont
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-### Projetos em Destaque
-- [Nome do Projeto 1](link-do-repo) - Descrição breve .
-- [Nome do Projeto 2](link-do-repo) - Descrição breve.
+
 
 ###  Me segue nas redes!
 <div> 
