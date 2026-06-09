@@ -1,35 +1,40 @@
-#  Me chamo Edilaine Cardoso, Bem-vindo(a) ao meu perfil! 
+### Edilaine Cardoso — Backend & Data Developer (Aspirante)
 
-Sou uma desenvolvedora apaixonada por tecnologia e inovação. Aqui você encontra meus projetos e contribuições no GitHub.
+Desenvolvedora focada em soluções backend, modelação de bases de dados e integração de sistemas. Gosto de transformar requisitos em APIs limpas, testes confiáveis e implementações escaláveis. Procuro oportunidades em backend, engenharia de dados ou roles full‑stack/colaborações que valorizem qualidade de código e entrega contínua.
 
-## Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edilaine-cardoso&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+#### Destaques
+- Experiência com desenvolvimento de APIs REST, modelação SQL e deployment em ambientes cloud.
+- Forte prática em raciocínio lógico, resolução de problemas e documentação técnica.
+- Perfil orientado a resultados, trabalho em equipa e aprendizagem contínua.
 
-##  Linguagens Mais Usadas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilaine-cardoso&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+#### Tecnologias (principais)
+- Backend: C# (.NET Core), APIs REST, arquitetura baseada em camadas  
+- Linguagens: Python, C / C++  
+- Bases de dados: SQL (modelação, queries, otimização)
+- Dev Tools: Git, VS Code / Visual Studio
+- Web & Frontend (complementar): HTML5, CSS3, Bootstrap
 
-###  Tecnologias que Domino
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+#### Projetos em destaque
+- Loja Online — Projeto Web 
+  Descrição curta: implementação Full‑Stack com foco em lógica de backend, endpoints REST e integração com base de dados SQL. Deploy: Render 
+-Jogo de Memória com Arduino — (https://github.com/edilaine-cardoso/projetoArduino_jogoDaMemoria.git)  
+  A lógica do jogo baseia-se na criação de uma sequência aleatória armazenada em um vetor (array). O Arduino reproduz essa sequência através dos LEDs e do buzzer, e o jogador deve replicá-la corretamente.
 
 
+#### Formação & Certificações
+- Curso EFA — Programadora de Computadores (Tecnisign) — Previsto: Jul/2026  
+- Análise de Dados — IEFP  — Em curso  
+- Certificações: Programação Web (IEFP), C/C++, Python (Nível Intermédio)
 
-###  Me segue nas redes!
-<div> 
-  <a href="https://www.instagram.com/edilaine_cardoso_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:edilaine.cardoso.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edilaine-cardoso-52b7571b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+#### Idiomas
+- Português: Nativo  
+- Espanhol: Funcionário/Certificado  
+- Inglês: Básico/Intermédio
+
+
+#### Contato
+- GitHub: [github.com/edilaine-cardoso](https://github.com/edilaine-cardoso)  
+
+
 
 
