@@ -15,7 +15,7 @@ Desenvolvedora focada em soluções backend, modelação de bases de dados e int
 - Web & Frontend (complementar): HTML5, CSS3, Bootstrap
 
 #### Projetos em destaque
-- Loja Online — Projeto Web 
+- Mirro-fashion — Projeto Web (https://github.com/edilaine-cardoso/Mirro-fashion.git)
   Descrição curta: implementação Full‑Stack com foco em lógica de backend, endpoints REST e integração com base de dados SQL. Deploy: Render
   
 - Jogo de Memória com Arduino — (https://github.com/edilaine-cardoso/projetoArduino_jogoDaMemoria.git)  
