@@ -34,7 +34,9 @@ Desenvolvedora focada em soluções backend, modelação de bases de dados e int
 
 
 #### Contato
-- GitHub: [github.com/edilaine-cardoso](https://github.com/edilaine-cardoso)  
+- GitHub: [github.com/edilaine-cardoso](https://github.com/edilaine-cardoso)
+-  Email: edilaine.cardoso.dev@gmail.com
+  
 
 
 
