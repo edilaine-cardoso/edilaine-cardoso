@@ -29,7 +29,7 @@ Desenvolvedora focada em soluções backend, modelação de bases de dados e int
 
 #### Idiomas
 - Português: Nativo  
-- Espanhol: Funcionário/Certificado  
+- Espanhol: Empresarial/Certificado  
 - Inglês: Básico/Intermédio
 
 
