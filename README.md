@@ -16,7 +16,8 @@ Desenvolvedora focada em soluções backend, modelação de bases de dados e int
 
 #### Projetos em destaque
 - Loja Online — Projeto Web 
-  Descrição curta: implementação Full‑Stack com foco em lógica de backend, endpoints REST e integração com base de dados SQL. Deploy: Render 
+  Descrição curta: implementação Full‑Stack com foco em lógica de backend, endpoints REST e integração com base de dados SQL. Deploy: Render
+  
 -Jogo de Memória com Arduino — (https://github.com/edilaine-cardoso/projetoArduino_jogoDaMemoria.git)  
   A lógica do jogo baseia-se na criação de uma sequência aleatória armazenada em um vetor (array). O Arduino reproduz essa sequência através dos LEDs e do buzzer, e o jogador deve replicá-la corretamente.
 
